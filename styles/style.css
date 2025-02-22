@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;}
+
+
+/*Navbar*/
+
+.navbar-custom{
+        background-color: rgba(11, 71, 6, 0.753);
+    }
+
+    .logo-custom{
+        width: 6rem;
+        height: 6rem;
+        border: solid beige;
+        border-radius: 100px;
+    }
+    
+    .nav-link{
+        color: antiquewhite;
+    }
+    .navbar-nav .nav-link.active{
+        color: rgb(97, 24, 24);
+    }
