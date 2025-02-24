@@ -22,3 +22,52 @@
     .navbar-nav .nav-link.active{
         color: rgb(97, 24, 24);
     }
+
+    /*Main-content*/
+
+.container-custom{
+    margin: 3rem 3rem;
+}
+
+.img-custom-carousel{
+    height: 100%;
+}
+
+/*footer*/
+
+footer{
+    background-color: rgba(11, 71, 6, 0.753);
+    height: 8rem;
+    position: absolute;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: antiquewhite;
+}
+.footer-link:hover{
+    color: rgb(97, 24, 24);
+}
+
+.div-footer{
+    display: flex;
+    width: 100%;
+    bottom: 0;
+    height: 100%;
+    align-items: center;
+    
+
+}
+
+.ul-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    width: 50%;
+}
+
+li{
+    list-style-type: none;
+    
+}
