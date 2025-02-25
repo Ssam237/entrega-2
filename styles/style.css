@@ -3,6 +3,9 @@
     padding: 0;}
 
 
+/*Fonts*/
+
+
 /*Navbar*/
 
 .navbar-custom{
@@ -25,13 +28,25 @@
 
     /*Main-content*/
 
+    body{
+        background-color: rgba(255, 242, 223, 0.836);
+    }
+
 .container-custom{
-    margin: 3rem 3rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 3rem;
 }
 
-.img-custom-carousel{
-    height: 100%;
+.card-custom{
+    display: flex;
+    align-content: space-evenly;
+    width: 18rem;
+    margin: 0rem 4rem 0rem 4rem;
+
+    
 }
+
 
 /*footer*/
 
